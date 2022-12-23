@@ -1,0 +1,16 @@
+{
+  "name": "manage-to-grow",
+  "version": "1.0.0",
+  "description": "Blog for ManageToGrow.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth J Haigh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21"
+  }
+}
